@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vishal choudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal choudhary" height="30" width="40" /></a>
-<a href="https://fb.com/विशाल चौधरी" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="विशाल चौधरी" height="30" width="40" /></a>
-<a href="https://instagram.com/dev_vishal_37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_vishal_37" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vishal - vlogs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vishal - vlogs" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishal-choudhary-4b079427a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal choudhary" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100062166917123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="विशाल चौधरी" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dev_vishal_37/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_vishal_37" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@vishal-5911-pbx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vishal - vlogs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
