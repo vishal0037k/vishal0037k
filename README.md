@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vishal-37-light.netlify.app/projects](https://vishal-37-light.netlify.app/projects)
 
-- 💬 Ask me about **MERN stack developement**
+- 💬 **MERN stack developer** ||  **Front end developer** ||  **Reactjs developer** ||  **Next.js** ||  **PHP + LARAVEL** ||  **MySql + MongoDb**
 
 - 📫 How to reach me **vishalchaudhary97123@gmail.com**
 
