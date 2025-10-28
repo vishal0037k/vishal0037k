@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vishalchaudhary97123@gmail.com**
 
-- 📄 Know about my experiences [https://vishal-37.netlify.app/](https://vishal-37.netlify.app/)
+- 📄 Know about my experiences [https://vishal-37-light.netlify.app/](https://vishal-37-light.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
