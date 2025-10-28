@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PHP & Laravel (blade)**
 
-- 👨‍💻 All of my projects are available at [https://vishal-37-light.netlify.app/projects](https://vishal-37-light.netlify.app/projects)
+- 👨‍💻 All of my projects are available at [[https://vishal-37-light.netlify.app/projects](https://vishal-37-light.netlify.app/)]([https://vishal-37-light.netlify.app/projects](https://vishal-37-light.netlify.app/))
 
 - 💬 **MERN stack developer** ||  **Front end developer** ||  **Reactjs developer** ||  **Next.js** ||  **PHP + LARAVEL** ||  **MySql + MongoDb**
 
