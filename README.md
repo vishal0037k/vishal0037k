@@ -1,4 +1,4 @@
-[![MasterHead](https://www.synergisticit.com/wp-content/uploads/2021/08/Phoenix-Banner-Image.jpg)](https://vishal-37-light.netlify.app/)
+[![MasterHead](https://www.synergisticit.com/wp-content/uploads/2021/08/Phoenix-Banner-Image.jpg)](https://vishal-dev-2003.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Vishal Choudhary</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PHP & Laravel (blade)**
 
-- 👨‍💻 All of my projects are available at ([https://vishal-37-light.netlify.app](https://vishal-37-light.netlify.app))
+- 👨‍💻 All of my projects are available at ([https://vishal-dev-2003.netlify.app](https://vishal-dev-2003.netlify.app))
 
 - 💬 **MERN stack developer** ||  **Front end developer** ||  **Reactjs developer** ||  **Next.js** ||  **PHP + LARAVEL** ||  **MySql + MongoDb**
 
