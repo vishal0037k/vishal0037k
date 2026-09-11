@@ -1,4 +1,4 @@
-[![MasterHead](https://www.synergisticit.com/wp-content/uploads/2021/08/Phoenix-Banner-Image.jpg)](https://vishal-dev-2003.netlify.app/)
+[![MasterHead](https://www.synergisticit.com/wp-content/uploads/2021/08/Phoenix-Banner-Image.jpg)](https://vishal-choudhary.lovable.app/)
 
 <h1 align="center">Hi 👋, I'm Vishal Choudhary</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **PHP & Laravel (blade)**
 
-- 👨‍💻 All of my projects are available at ([https://vishal-dev-2003.netlify.app](https://vishal-dev-2003.netlify.app))
+- 👨‍💻 All of my projects are available at ([https://vishal-dev-2003.netlify.app](https://vishal-choudhary.lovable.app/))
 
 - 💬 **MERN stack developer** ||  **Front end developer** ||  **Reactjs developer** ||  **Next.js** ||  **PHP + LARAVEL** ||  **MySql + MongoDb**
 
 - 📫 How to reach me **vishalchaudhary97123@gmail.com**
 
-- 📄 Know about my experiences [https://vishal-dev-2003.netlify.app/projects]([https://vishal-dev-2003.netlify.app/](https://vishal-dev-2003.netlify.app/projects))
+- 📄 Know about my experiences [https://vishal-dev-2003.netlify.app/projects]([https://vishal-choudhary.lovable.app/](https://vishal-choudhary.lovable.app/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
