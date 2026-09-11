@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **PHP & Laravel (blade)**
 
-- 👨‍💻 All of my projects are available at ([https://vishal-dev-2003.netlify.app](https://vishal-choudhary.lovable.app/))
+- 👨‍💻 All of my projects are available at ([https://vishal-choudhary.lovable.app/](https://vishal-choudhary.lovable.app/))
 
 - 💬 **MERN stack developer** ||  **Front end developer** ||  **Reactjs developer** ||  **Next.js** ||  **PHP + LARAVEL** ||  **MySql + MongoDb**
 
 - 📫 How to reach me **vishalchaudhary97123@gmail.com**
 
-- 📄 Know about my experiences [https://vishal-dev-2003.netlify.app/projects]([https://vishal-choudhary.lovable.app/](https://vishal-choudhary.lovable.app/))
+- 📄 Know about my experiences [https://vishal-choudhary.lovable.app/]([https://vishal-choudhary.lovable.app/](https://vishal-choudhary.lovable.app/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
